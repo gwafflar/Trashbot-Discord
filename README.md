@@ -5,7 +5,7 @@ A discord bot to send notifications when it's the day to to take out the trash.
 - Download the file trash_bot.py on your device that will run 24/7.
 - Go on Discord.com, create a bot, give him/her permissions, then create a token
 - In the file trash_bot.py, paste your token to where it is required, then paste the channelID where you want to receive notifications.
-- activate a tmux session tout run the bot in the background :
+- activate a tmux session to run the bot in the background :
 ```bash
 tmux
 ```
