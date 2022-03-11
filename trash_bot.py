@@ -1,7 +1,7 @@
 """
 This is a basic discord bot that notifies everyone in the kolok when it's the day
 we have to take out the garbage.
-This way, we avoid bad smells do to oversight and everyone is happy.
+This way, we avoid bad smells due to oversight and everyone is happy.
 
 @author : Guillaume Wafflard
 Date : 13/09/2021
